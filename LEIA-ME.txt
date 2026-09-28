@@ -1,0 +1,13 @@
+MEU CONTROLE FINANCEIRO
+
+1. Abra a pasta no VS Code.
+2. Clique duas vezes em index.html ou use a extensão Live Server.
+3. Na primeira vez, clique em "Criar meu acesso".
+4. Cadastre nome, usuário e senha.
+5. Faça login e registre receitas/despesas.
+
+IMPORTANTE:
+- Esta versão não precisa de Supabase, conta da escola ou internet.
+- Os dados e usuários são armazenados no navegador deste computador (localStorage).
+- Se limpar os dados do navegador, trocar de computador ou navegador, os dados não acompanham você.
+- A senha é armazenada como hash SHA-256, não como texto simples, mas esta é uma solução local/pessoal e não substitui autenticação de servidor para uso público.
